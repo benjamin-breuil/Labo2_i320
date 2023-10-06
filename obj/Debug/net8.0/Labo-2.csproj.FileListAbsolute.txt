@@ -1,0 +1,14 @@
+C:\Users\BenjaminBreuil\Documents\EPSIC-2E\320\Labo-2\bin\Debug\net8.0\Labo-2.exe
+C:\Users\BenjaminBreuil\Documents\EPSIC-2E\320\Labo-2\bin\Debug\net8.0\Labo-2.deps.json
+C:\Users\BenjaminBreuil\Documents\EPSIC-2E\320\Labo-2\bin\Debug\net8.0\Labo-2.runtimeconfig.json
+C:\Users\BenjaminBreuil\Documents\EPSIC-2E\320\Labo-2\bin\Debug\net8.0\Labo-2.dll
+C:\Users\BenjaminBreuil\Documents\EPSIC-2E\320\Labo-2\bin\Debug\net8.0\Labo-2.pdb
+C:\Users\BenjaminBreuil\Documents\EPSIC-2E\320\Labo-2\obj\Debug\net8.0\Labo-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BenjaminBreuil\Documents\EPSIC-2E\320\Labo-2\obj\Debug\net8.0\Labo-2.AssemblyInfoInputs.cache
+C:\Users\BenjaminBreuil\Documents\EPSIC-2E\320\Labo-2\obj\Debug\net8.0\Labo-2.AssemblyInfo.cs
+C:\Users\BenjaminBreuil\Documents\EPSIC-2E\320\Labo-2\obj\Debug\net8.0\Labo-2.csproj.CoreCompileInputs.cache
+C:\Users\BenjaminBreuil\Documents\EPSIC-2E\320\Labo-2\obj\Debug\net8.0\Labo-2.dll
+C:\Users\BenjaminBreuil\Documents\EPSIC-2E\320\Labo-2\obj\Debug\net8.0\refint\Labo-2.dll
+C:\Users\BenjaminBreuil\Documents\EPSIC-2E\320\Labo-2\obj\Debug\net8.0\Labo-2.pdb
+C:\Users\BenjaminBreuil\Documents\EPSIC-2E\320\Labo-2\obj\Debug\net8.0\Labo-2.genruntimeconfig.cache
+C:\Users\BenjaminBreuil\Documents\EPSIC-2E\320\Labo-2\obj\Debug\net8.0\ref\Labo-2.dll
