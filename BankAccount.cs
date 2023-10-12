@@ -34,14 +34,17 @@ class BankAccount {
         
         if(Balance >= montant)
         {
-            bankAccount.Balance += montant;
-            Balance -= montant;
+            //bankAccount.Balance += montant;
+            //Balance -= montant;
+            Debit(montant);
+            bankAccount.Credit(montant);
 
             Console.WriteLine($"Transfert du compte de {Owner.FirstName} {Owner.LastName} au compte de {bankAccount.Owner.FirstName} {bankAccount.Owner.LastName} réussi : {montant}");
             return true;
         }
         else
         {
+            
             Console.WriteLine($"Transfert du compte de {Owner.FirstName} {Owner.LastName} au compte de {bankAccount.Owner.FirstName} {bankAccount.Owner.LastName} échoué: solde insuffisant ({montant})");
             return false;
         }

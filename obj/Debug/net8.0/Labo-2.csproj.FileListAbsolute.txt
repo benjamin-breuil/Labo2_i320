@@ -12,3 +12,4 @@ C:\Users\BenjaminBreuil\Documents\EPSIC-2E\320\Labo-2\obj\Debug\net8.0\refint\La
 C:\Users\BenjaminBreuil\Documents\EPSIC-2E\320\Labo-2\obj\Debug\net8.0\Labo-2.pdb
 C:\Users\BenjaminBreuil\Documents\EPSIC-2E\320\Labo-2\obj\Debug\net8.0\Labo-2.genruntimeconfig.cache
 C:\Users\BenjaminBreuil\Documents\EPSIC-2E\320\Labo-2\obj\Debug\net8.0\ref\Labo-2.dll
+C:\Users\BenjaminBreuil\Documents\EPSIC-2E\320\Labo-2\obj\Debug\net8.0\Labo-2.sourcelink.json
